@@ -1,0 +1,5 @@
+16:26:06.151 command: [C:\Program Files (x86)\Google\Chrome\Application\chrome.exe, --remote-debugging-port=9222, --no-first-run, --user-data-dir=C:\Users\User\IdeaProjects\KarateTest01\target\chrome_1565274366148, --disable-popup-blocking]
+16:26:06.152 env PATH: null
+16:26:06.165 poll attempt #0 for port to be ready - localhost:9222
+16:26:06.571 
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/572c4be1-0152-4e45-92cd-76d93785f54e16:26:06.571 DevTools listening on ws://127.0.0.1:9222/devtools/browser/572c4be1-0152-4e45-92cd-76d93785f54e
