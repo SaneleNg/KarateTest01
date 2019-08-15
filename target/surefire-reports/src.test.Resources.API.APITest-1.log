@@ -1,12 +1,12 @@
-16:40:37.378 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
-16:40:38.690 request:
+19:14:12.256 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+19:14:13.504 request:
 1 > GET http://quotes.rest/qod/categories
 1 > Accept-Encoding: gzip,deflate
 1 > Connection: Keep-Alive
 1 > Host: quotes.rest
 1 > User-Agent: Apache-HttpClient/4.5.5 (Java/1.8.0_211)
 
-16:40:40.020 response time in milliseconds: 1327.33
+19:14:14.968 response time in milliseconds: 1457.59
 1 < 200
 1 < Access-Control-Allow-Headers: x-access-token
 1 < Access-Control-Allow-Methods: GET,POST,PUT,OPTIONS
@@ -15,8 +15,8 @@
 1 < Connection: Upgrade, Keep-Alive
 1 < Content-Language: en
 1 < Content-Type: application/json; charset=utf-8
-1 < Date: Thu, 08 Aug 2019 14:40:38 GMT
-1 < Expires: Thu, 08 Aug 2019 17:27:18 GMT
+1 < Date: Thu, 08 Aug 2019 17:14:12 GMT
+1 < Expires: Thu, 08 Aug 2019 20:00:53 GMT
 1 < Keep-Alive: timeout=2, max=100
 1 < Server: Apache
 1 < Transfer-Encoding: chunked
@@ -25,7 +25,7 @@
 1 < X-Auth-Status: true
 1 < X-Powered-By: Luracast Restler v3.0.0rc3
 1 < X-RateLimit-Limit: 10 per hour
-1 < X-RateLimit-Remaining: 7
+1 < X-RateLimit-Remaining: 8
 {
     "success": {
         "total": 8
@@ -44,9 +44,4 @@
         "copyright": "2017-19 http://theysaidso.com"
     }
 }
-
-yright": "2017-19 http://theysaidso.com"
-    }
-}
-
 

@@ -1,5 +1,5 @@
-<testsuite failures="0" name="src/test/Resources/API/APITest.feature" skipped="0" tests="1" time="2.66262">
-  <testcase classname="src.test.Resources.API.APITest" name="test01" time="2.66262">
+<testsuite failures="0" name="src/test/Resources/API/APITest.feature" skipped="0" tests="1" time="2.803988">
+  <testcase classname="src.test.Resources.API.APITest" name="test01" time="2.803988">
     <system-out>Given url 'http://quotes.rest/qod/categories' ............................. passed
 When method get ........................................................... passed
 Then status 200 ........................................................... passed</system-out>
